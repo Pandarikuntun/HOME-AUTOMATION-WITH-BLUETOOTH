@@ -22,7 +22,7 @@ Sending control signals to devices
 Performing the required action (ON/OFF, OPEN/CLOSE, etc.)
 
 *********. BLOCK DIAGRAM
-
+<img width="998" height="548" alt="Image" src="https://github.com/user-attachments/assets/01e5893d-c8e0-4c41-a778-fb2f61fa99b4" />
 *********. HARDWARE REQUIREMENTS
 Component	Description
 Embedded Board	ESP8266 / ESP32 / Arduino / Raspberry Pi
