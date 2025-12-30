@@ -175,7 +175,7 @@ A basic speech recognition system using an embedded board successfully demonstra
 can control devices efficiently. The project integrates speech processing, embedded programming, and device control,
 making it highly relevant for IoT and smart automation applications.
 
-
+[
 PowerPoint slides
 
-Proteus simulation
+Proteus simulation](https://github.com/user-attachments/assets/f7311395-d24d-4e8b-9906-60958850b916)
